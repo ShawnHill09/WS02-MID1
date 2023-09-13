@@ -1,0 +1,75 @@
+html, body {
+    margin: 0;
+    background-image: linear-gradient(black, grey);
+
+}
+
+.asta-icon {
+        width: 900px;
+        height: 500px;
+        position: relative;
+        top: 40px;
+}
+
+.text-image {
+    position: absolute;
+    top: 140px;
+    right: 650px;
+    height: 140px;  
+}
+
+header {
+
+    padding:50px;
+    text-align: center;
+      background-image: linear-gradient(black, gray);
+
+    
+
+
+}
+
+ h1 {
+    font-size: 90px;
+    color: #OB6623;
+    font-family: ;
+    text-shadow:;
+	background-color: #;
+}
+
+header img {
+        
+
+        
+    
+}
+
+
+.content {
+max-width: 800px;
+margin: 0 auto;
+padding: 0 20px;
+color: #ffffff;
+background-image: linear-gradient(black, grey);
+
+}
+
+ img {
+border-radius: 30px;
+max-width: 100%;
+
+}
+
+.content h2 {
+text-shadow: 0 0 20px #000000;
+font-family: 'Segoe UI';
+color: black;
+
+
+    
+}
+
+
+}
+
+.content p.cap3on {
